@@ -4,13 +4,13 @@ const limpar = document.getElementById("limpar")
 
 const validarCep = async (cep) =>{
 
-    a + b
+
     return cep.length == 8 && /^[0-9]+$/.test(cep)
 }
 
 const pesquisarCep = async () => {
 
-    debugger;
+
 
     const cep_valor = cep.value
 
